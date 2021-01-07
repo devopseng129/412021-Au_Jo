@@ -1,1 +1,3 @@
 this is a file created in master to test conflicts
+this is a file created in b1 to test conflicts
+
